@@ -1,1 +1,2 @@
-# ISP-Crowberry-SDM
+# Projecting the Future of Crowberry Habitat in Iceland
+Code and outputs for my project on crowberry species distribution modelling. Part of my Independent Study Project (ISP) for Iceland: Climate Change and the Arctic, Fall 2026.
