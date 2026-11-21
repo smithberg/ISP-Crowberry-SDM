@@ -1,0 +1,10 @@
+CORINE Land Cover 2018, Iceland (layer CORINE:clc18_is).
+Custodian: Natural Science Institute of Iceland (Natturufraedistofnun Islands). Owner: European Commission (Copernicus Land Monitoring Service).
+Retrieved 23 October 2026 via https://gis.lmi.is/geoserver/wfs.
+Changes made here: downloaded in pages and reprojected to WGS84 (EPSG:4326); the data was not otherwise altered.
+
+Terms (Copernicus data and information policy, Regulation (EU) No 1159/2013):
+  - When you share or publish anything made with these data, state the source.
+  - Do not give the impression that the European Union endorses your work.
+  - If you change or adapt the data, say so clearly.
+  - Acknowledge that the data were produced "with funding by the European Union".

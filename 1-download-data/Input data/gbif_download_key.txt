@@ -1,0 +1,6 @@
+# GBIF download key (created by download_gbif.R). Keep this file with your project:
+# anyone who has it can re-download exactly the same data.
+# Created: 2026-10-15 22:24
+# Species: Empetrum nigrum (taxon keys: 8925249)
+# Filters: country IS, years 1991-2025, present, with coordinates, no geospatial issues, excluding FOSSIL_SPECIMEN/LIVING_SPECIMEN
+0029591-260928105237408

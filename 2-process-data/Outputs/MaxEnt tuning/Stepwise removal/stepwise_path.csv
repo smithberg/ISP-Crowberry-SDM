@@ -1,0 +1,8 @@
+"fc","rm","n_vars","removed","vars_kept","AICc","ncoef","status","delta.AICc"
+"QHPT",1.5,10,NA,"swe, ngd10, tpi, bio18, bio03, roughness, bio02, bio15, eastness, northness",16584.7050146102,38,"ok",9.79091159884774
+"QHPT",1.5,9,"eastness","swe, ngd10, tpi, bio18, bio03, roughness, bio02, bio15, northness",16576.7549825611,33,"ok",1.84087954975621
+"QHPT",1.5,8,"bio03","swe, ngd10, tpi, bio18, roughness, bio02, bio15, northness",16574.9141030113,30,"ok",0
+"QHPT",1.5,7,"northness","swe, ngd10, tpi, bio18, roughness, bio02, bio15",16582.9190641999,29,"ok",8.0049611885479
+"QHPT",1.5,6,"bio18","swe, ngd10, tpi, roughness, bio02, bio15",16595.0257077132,24,"ok",20.1116047019168
+"QHPT",1.5,5,"bio15","swe, ngd10, tpi, roughness, bio02",16592.8861752684,18,"ok",17.9720722570346
+"QHPT",1.5,4,"roughness","swe, ngd10, tpi, bio02",16623.8219179738,14,"ok",48.9078149624838

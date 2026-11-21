@@ -1,0 +1,9 @@
+Run finished: 2026-11-13 17:34:43 GMT
+R: R version 4.6.0 (2026-04-24)
+ENMeval: 2.0.6
+maxnet: 0.1.4
+terra: 1.9.50
+Feature classes: QHPT   RM: 1.5   min_vars: 4
+Presences: 676   Background: 10000   thin_km: 5
+Candidate variables: swe, ngd10, tpi, bio18, bio03, roughness, bio02, bio15, eastness, northness
+Note: steps loaded from checkpoints were fitted in an earlier run; the versions above are those of the run that completed this file.

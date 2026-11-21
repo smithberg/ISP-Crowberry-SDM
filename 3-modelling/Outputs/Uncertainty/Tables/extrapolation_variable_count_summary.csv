@@ -1,0 +1,10 @@
+"scenario","ssp","period","pct_cells_extrapolating","pct_of_extrapolating_1_variable","pct_of_extrapolating_2_variables","pct_of_extrapolating_3plus_variables","pct_of_extrapolating_mixed_class"
+"SSP1-2.6","ssp126","2011-2040",6.8,100,0,0,0
+"SSP1-2.6","ssp126","2041-2070",4.8,100,0,0,0
+"SSP1-2.6","ssp126","2071-2100",2,100,0,0,0
+"SSP3-7.0","ssp370","2011-2040",3.7,100,0,0,0
+"SSP3-7.0","ssp370","2041-2070",13.1,100,0,0,0
+"SSP3-7.0","ssp370","2071-2100",30.6,97.2,2.8,0,0.8
+"SSP5-8.5","ssp585","2011-2040",5.5,100,0,0,0
+"SSP5-8.5","ssp585","2041-2070",10.1,99.9,0.1,0,0
+"SSP5-8.5","ssp585","2071-2100",23.8,100,0,0,0

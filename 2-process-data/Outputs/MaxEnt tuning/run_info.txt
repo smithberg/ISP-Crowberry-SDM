@@ -1,0 +1,9 @@
+Run finished: 2026-11-11 12:04:13 GMT
+R: R version 4.6.0 (2026-04-24)
+ENMeval: 2.0.6
+maxnet: 0.1.4
+terra: 1.9.50
+Presences: 676   Background: 10000   thin_km: 5
+Predictors: swe, ngd10, tpi, bio18, bio03, roughness, bio02, bio15, eastness, northness
+Feature classes: LQHPT   RM values: 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5
+Note: batches loaded from checkpoints were fitted in an earlier run; the versions above are those of the run that completed this file.

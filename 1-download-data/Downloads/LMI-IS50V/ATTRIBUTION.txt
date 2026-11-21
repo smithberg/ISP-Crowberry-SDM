@@ -1,0 +1,5 @@
+Contains data from the IS 50V database of the National Land Survey of Iceland (Landmaelingar Islands),
+retrieved 16 October 2026 via https://gis.lmi.is/geoserver/wfs (layer: IS_50V:strandlina_flakar).
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Inniheldur gogn fra IS 50V gagnagrunni Landmaelinga Islands fra 10/2026.

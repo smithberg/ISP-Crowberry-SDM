@@ -1,0 +1,11 @@
+Run finished: 2026-11-11 18:00:58 GMT
+R: R version 4.6.0 (2026-04-24)
+ENMeval: 2.0.6
+maxnet: 0.1.4
+terra: 1.9.50
+Variables: bio02, bio15, bio18, swe, tpi, roughness, northness, ngd10
+Feature classes: QHPT   RM: 1.5
+Presences: 676   Background: 10000   thin_km: 5
+AICc: 16574.9
+Suitability at presences, 10/50/90th percentile: 0.353 / 0.682 / 0.891
+Suitability at background, 10/50/90th percentile: 0.154 / 0.424 / 0.774

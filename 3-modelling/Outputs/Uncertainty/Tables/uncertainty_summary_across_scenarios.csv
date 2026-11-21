@@ -1,0 +1,4 @@
+"period","mean_range","mean_sd","pct_cells_range_above_0.1","pct_cells_3_of_3_agree_on_direction","pct_cells_2_of_3_agree_on_direction","pct_cells_1_or_fewer_agree_on_direction","pct_cells_any_scenario_extrapolating"
+"2011-2040",0.0532,0.0282,16.4,80.5,19.5,0,8.1
+"2041-2070",0.1284,0.0678,45.4,72,28,0,14.6
+"2071-2100",0.2295,0.127,73,66.7,33.3,0,31.9
